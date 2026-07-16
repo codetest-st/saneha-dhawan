@@ -1,0 +1,5 @@
+x=sum(4,5)
+print("sum of two number is:",x)
+y=fact(5)
+print("factorial of a number is: ",y)
+print(functions._file_)
